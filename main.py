@@ -40,6 +40,9 @@ def display_job():
   Students with high curiosity and someone who is willing to do this project wholeheartedly is preferred. 
   I believe that interests can elevate one's qualifications. Of course, basic knowledge on achieving the goal 
   is ideal, however, the intern's interest towards the project matters the most.
+
+  **Salary:** 
+  ₹7000-₹10,000 for the duration of the project
   
   **How to Apply:**
   If you are passionate about web development and eager to gain hands-on experience, please send your resume, 
@@ -53,6 +56,7 @@ def display_job():
     Please send all your details and relevant attachments to **teamcandidate.ai@gmail.com**. \n
     You MUST have this, "**GR_Web_developer_intern**" as your E-mail Subject. Please quote it exactly.
   ''')
+  st.image('instructions.png')
 
 if __name__ == "__main__":
   display_job()

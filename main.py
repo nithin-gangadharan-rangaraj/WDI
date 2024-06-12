@@ -4,7 +4,7 @@ st.set_page_config(page_title="Internship")
 st.subheader("Web Developer Intern", divider = 'red')
 
 def display_job():
-  '''
+  st.write('''
   **Location:** Remote  
   **Type:** Project-based Internship
   
@@ -46,7 +46,7 @@ def display_job():
   a brief cover letter, and any relevant work samples or portfolio.
   
   I'm excited to work with someone who is as enthusiastic about this project as I am. Let's create something amazing together!
-  '''
+  ''')
 
 if __name__ == "__main__":
   display_job()

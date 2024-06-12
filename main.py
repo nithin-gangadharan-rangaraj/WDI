@@ -48,5 +48,11 @@ def display_job():
   I'm excited to work with someone who is as enthusiastic about this project as I am. Let's create something amazing together!
   ''')
 
+  st.subheader('Intructions on how to apply:', divider = 'red')
+  st.write('''
+    Please send all your details and relevant attachments to **teamcandidate.ai@gmail.com**
+    You MUST have this, "**GR_Web_developer_intern**" as your E-mail Subject. Please quote it exactly.
+  ''')
+
 if __name__ == "__main__":
   display_job()

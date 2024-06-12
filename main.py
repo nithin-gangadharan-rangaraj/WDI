@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Internship")
 st.image('logo.png', width = 100)
-st.subheader("Web Developer Intern", divider = 'red')
+st.subheader("WEB DEVELOPER INTERN", divider = 'red')
 
 def display_job():
   st.write('''

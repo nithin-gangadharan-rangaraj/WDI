@@ -55,7 +55,7 @@ def display_job():
   st.subheader('Instructions on how to apply:', divider = 'red')
   st.write('''
     If you are keen, please send all your details and relevant attachments **(in pdf, doc)** to **teamcandidate.ai@gmail.com**. \n
-    You MUST have this, "**GR_Web_developer_intern**" as your E-mail Subject. Please quote it exactly.
+    You MUST have this, "**GR_Web_developer_intern**" as your E-mail Subject. Please quote it exactly. Do not add any additional characters/letters in the subject.
   ''')
   st.image('instructions.png')
 

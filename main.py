@@ -43,7 +43,7 @@ def display_job():
   is ideal, however, the intern's interest towards the project matters the most.
 
   **Salary:** 
-  ₹7000-₹10,000 for the duration of the project
+  ₹7,000-₹8,000 for the duration of the project
   
   **How to Apply:**
   If you are passionate about web development and eager to gain hands-on experience, please send your resume, 

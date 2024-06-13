@@ -56,7 +56,7 @@ def display_job():
   st.info('⚠️Please note that you must follow these instructions for us to consider your application!')
   st.write('''
     If you are keen, please send all your details and relevant attachments **(in pdf, doc)** to **teamcandidate.ai@gmail.com**. \n
-    You MUST have this, "**GR_Web_developer_intern**" as your E-mail Subject. Please quote it exactly. Do not add any additional characters/letters in the subject.
+    You MUST have this, "**GR_Web_developer_intern**" as your E-mail Subject (including any special characters). Please quote it exactly. Do not add any additional characters/letters in the subject.
   ''')
   st.image('instructions.png')
 
